@@ -1,4 +1,4 @@
 # created by virtualenv automatically
-venv/
+.venv/
 shop/shop/db.sqlite3
 
